@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.28cf9bca.css",
+    "main.js": "/react-gh-pages/static/js/main.f68f9114.js",
+    "static/media/bronze-medal.svg": "/react-gh-pages/static/media/bronze-medal.161decdd3831325a177e7d13ce072dad.svg",
+    "static/media/gold-medal.svg": "/react-gh-pages/static/media/gold-medal.46a814add77bede2475d07936870b21d.svg",
+    "static/media/silver-medal.svg": "/react-gh-pages/static/media/silver-medal.88be1da874af81e5dbb8a7168e41dcf7.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.28cf9bca.css.map": "/react-gh-pages/static/css/main.28cf9bca.css.map",
+    "main.f68f9114.js.map": "/react-gh-pages/static/js/main.f68f9114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28cf9bca.css",
+    "static/js/main.f68f9114.js"
+  ]
+}
