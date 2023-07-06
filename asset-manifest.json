@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.606d75ae.css",
-    "main.js": "/static/js/main.9dc182f5.js",
+    "main.js": "/static/js/main.1214e8d9.js",
     "static/media/bronze-medal.svg": "/static/media/bronze-medal.161decdd3831325a177e7d13ce072dad.svg",
     "static/media/gold-medal.svg": "/static/media/gold-medal.46a814add77bede2475d07936870b21d.svg",
     "static/media/silver-medal.svg": "/static/media/silver-medal.88be1da874af81e5dbb8a7168e41dcf7.svg",
     "index.html": "/index.html",
     "main.606d75ae.css.map": "/static/css/main.606d75ae.css.map",
-    "main.9dc182f5.js.map": "/static/js/main.9dc182f5.js.map"
+    "main.1214e8d9.js.map": "/static/js/main.1214e8d9.js.map"
   },
   "entrypoints": [
     "static/css/main.606d75ae.css",
-    "static/js/main.9dc182f5.js"
+    "static/js/main.1214e8d9.js"
   ]
 }
