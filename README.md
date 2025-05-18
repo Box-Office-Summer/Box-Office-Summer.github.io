@@ -1,3 +1,19 @@
+# Getting movie data
+To run the scraper update the year in `scraper.js` and run `node scraper.js` from the project root
+
+# Parsing Data
+Update year in csvParser.js, add exported csv file to csvs list, and `node csvParser.js`
+
+# Deployment
+`node cron.sh`
+
+# Adding new year
+Run the scraper with the new year, export CSV from excel, run the csv parser with the new year
+Import/Export these new files from src/entries/index.js and src/movieData/index.js
+Add the new year to availableYears array and maybe some other places
+Correct any movie titles from the CSV that don't match the scraper if needed
+You'll prob have to create a new token for deployment here: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

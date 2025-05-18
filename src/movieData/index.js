@@ -1,0 +1,8 @@
+export { default as movieData2025 } from './movieData-2025.json'
+export { default as movieData2024 } from './movieData-2024.json'
+export { default as movieData2023 } from './movieData-2023.json'
+export { default as movieData2022 } from './movieData-2022.json'
+export { default as movieData2019 } from './movieData-2019.json'
+export { default as movieData2018 } from './movieData-2018.json'
+export { default as movieData2017 } from './movieData-2017.json'
+export { default as movieData2016 } from './movieData-2016.json'

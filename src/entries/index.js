@@ -1,0 +1,8 @@
+export { default as entries2025 } from './entries-2025.json'
+export { default as entries2024 } from './entries-2024.json'
+export { default as entries2023 } from './entries-2023.json'
+export { default as entries2022 } from './entries-2022.json'
+export { default as entries2019 } from './entries-2019.json'
+export { default as entries2018 } from './entries-2018.json'
+export { default as entries2017 } from './entries-2017.json'
+export { default as entries2016 } from './entries-2016.json'
