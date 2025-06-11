@@ -5,7 +5,7 @@ To run the scraper update the year in `scraper.js` and run `node scraper.js` fro
 Update year in csvParser.js, add exported csv file to csvs list, and `node csvParser.js`
 
 # Deployment
-`node cron.sh`
+`./ cron.sh`
 
 # Adding new year
 Run the scraper with the new year, export CSV from excel, run the csv parser with the new year
