@@ -4,6 +4,4 @@
 # Jekyll build
 node_modules
 
-scraper.js
-
 csvs
